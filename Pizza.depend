@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1548266166 source:c:\fax\bp\baze\projekat\pizza\pizza.c
+	"pizza.h"
+	"types.h"
+	<stdio.h>
+	<math.h>
+
+1548265204 c:\fax\bp\baze\projekat\pizza\pizza.h
+	<stdio.h>
+	"types.h"
+
+1548266185 source:c:\fax\bp\baze\projekat\pizza\main.c
+	<stdio.h>
+	<stdlib.h>
+	"types.h"
+
+1548311317 c:\fax\bp\baze\projekat\pizza\types.h
+	<stdio.h>
+
+1548420117 source:d:\fax\treca godina\baze\pizza\main.c
+	<stdio.h>
+	<stdlib.h>
+	"types.h"
+	"pizza.h"
+
+1548348479 d:\fax\treca godina\baze\pizza\types.h
+	<stdio.h>
+
+1548357759 d:\fax\treca godina\baze\pizza\pizza.h
+	<stdio.h>
+	"types.h"
+
+1548411467 source:d:\fax\treca godina\baze\pizza\pizza.c
+	"pizza.h"
+	"types.h"
+	<stdio.h>
+	<math.h>
+	<string.h>
+
